@@ -4,7 +4,7 @@
 
 I'm a data scientist, a former economic consultant at Charles River Associates, and a two-time Berkeley grad.
 
-As a consultant at CRA, all of my data analysis was relevant to antitrust litigation; it was subject to cross-examination by a hostile opposition in court. My data work on complex antitrust cases trained me to create analysis that is carefully considered, robust, and comprehensive.
+As a consultant at CRA, all of my data analysis was relevant to antitrust litigation. My data work on high-stakes, complex antitrust cases trained me to create analysis that is carefully considered, robust, and comprehensive.
 
 I'm passionate about opportunities to use data to answer tough questions with real impact. Check out a sample of my educational and independent projects, which include:
 
