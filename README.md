@@ -2,9 +2,7 @@
 
 # I'm Tim. Nice to meet you!
 
-I'm a data scientist, a former economic consultant at Charles River Associates, and a two-time Berkeley grad.
-
-As a consultant at CRA, all of my data analysis was relevant to antitrust litigation. My data work on high-stakes, complex antitrust cases trained me to create analysis that is carefully considered, robust, and comprehensive.
+I'm a data scientist, a former economic consultant at Charles River Associates, and a two-time Berkeley grad. My data work on high-stakes, complex antitrust cases at CRA trained me to create analysis that is carefully considered, robust, and comprehensive.
 
 I'm passionate about opportunities to use data to answer tough questions with real impact. Check out a sample of my educational and independent projects, which include:
 
