@@ -2,13 +2,21 @@
 
 # I'm Tim. Nice to meet you!
 
-I'm a data scientist, a former economic consultant at Charles River Associates, and a two-time Berkeley grad. My data work on high-stakes, complex antitrust cases at CRA trained me to create analysis that is carefully considered, robust, and comprehensive.
+I'm a data scientist, a former economic consultant at Charles River Associates, and a two-time Berkeley grad. My background in antitrust litigation trained me to build robust, transparent, and impact-driven models under real-world scrutiny. I'm passionate about applying causal inference, experimentation, and machine learning to tough problems that matter.
 
-I'm passionate about opportunities to use data to answer tough questions with real impact. Check out a sample of my educational and independent projects, which include:
+Below, you can find a selection of educational and independent data projects across applied economics, policy, and machine learning. These projects demonstrate my ability to scope, execute, and communicate complex analyses using a variety of tools.
 
-- :house: :heavy_dollar_sign: An investigation of pricing algorithms' impact in the rental housing market, where my team and I identified an average increase in rent of $200/month.
-- :page_facing_up: :ballot_box_with_check: Survey research which found that Americans' political opinions may change if questions are posed in a social media context.
-- :earth_americas: :zap: A website which demonstrates relationships between climate change impacts and natural disasters in the United States.
-- :computer: :soccer: A Computer Vision/Object Detection model which can locate a soccer ball & players in images of soccer matches.
+## 🔬 Featured Projects
 
-These repositories are pinned below. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/timothy-majidzadeh/)!
+| Project | Description | Skills & Tools |
+|--------|-------------|----------------|
+| [Pricing Algorithms & Rent Impact](https://uc-berkeley-i-school.github.io/realpage-rent-impact/) | Investigated the effect of pricing software on rents using a blend of causal inference and forecasting techniques. Found average rent increases of $200/month for 800 sqft units. | Python, Pandas, Neural Networks, ARIMA, Synthetic Control, Propensity Scores |
+| [Political Opinion Survey Experiment](https://github.com/timothy-majidzadeh/immigration-survey-experiment) | Designed and deployed a randomized survey to test how social media framing affects public opinion. Found opinion shifts varying by political party when questions were posed as Facebook posts. | A/B Testing, Research Design, Python, Qualtrics |
+| [Climate Disaster Visualization Site](https://github.com/timothy-majidzadeh/climate-disaster-viz) | Built a public-facing interactive site to explore the relationship between climate change and natural disasters across the U.S. | Data Visualization, JavaScript, Web Dev, D3.js |
+| [Computer Vision: Soccer Match Detection](https://github.com/timothy-majidzadeh/soccer-object-detection) | Trained YOLO-based object detection models to locate players and balls in soccer match images. | YOLOv5, Tensorflow, OpenCV, Image Processing |
+| [RAG Model Deployment for Document QA](https://github.com/timothy-majidzadeh/rag-llm-demo) | Deployed Retrieval-Augmented Generation (RAG) pipelines using LangChain and Mistral/Cohere to enhance document Q&A performance. | LangChain, Mistral, Cohere, RAG, Vector Stores |
+
+---
+
+📫 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/timothy-majidzadeh/). Thanks for stopping by!
+
