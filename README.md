@@ -2,7 +2,7 @@
 
 # I'm Tim. Nice to meet you!
 
-I'm a data scientist, a former economic consultant at Charles River Associates, and a two-time Berkeley grad. My background in antitrust litigation trained me to build robust, transparent, and impact-driven models under real-world scrutiny. I'm passionate about applying causal inference, experimentation, and machine learning to tough problems that matter.
+I'm a data scientist, a former economic consultant at Charles River Associates, and a two-time Berkeley grad. My background in antitrust litigation trained me to build robust, and impact-driven models in a high-stakes, high-scrutiny environment. I'm passionate about applying causal inference, experimentation, and machine learning to tough problems that matter.
 
 Below, you can find a selection of educational and independent data projects across applied economics, policy, and machine learning. These projects demonstrate my ability to scope, execute, and communicate complex analyses using a variety of tools.
 
