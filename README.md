@@ -18,5 +18,5 @@ Below, you can find a selection of educational and independent data projects acr
 
 ---
 
-📫 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/timothy-majidzadeh/). Thanks for stopping by!
+📫 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/timothy-majidzadeh/) or review my [resume](/references/resume.pdf). Thanks for stopping by!
 
