@@ -11,10 +11,9 @@ Below, you can find a selection of educational and independent data projects acr
 | Project | Description | Skills & Tools |
 |--------|-------------|----------------|
 | [Pricing Algorithms & Rent Impact](https://uc-berkeley-i-school.github.io/realpage-rent-impact/) | Investigated the effect of pricing software on rents using a blend of causal inference and forecasting techniques. Found average rent increases of $200/month for 800 sqft units. | Python, Pandas, Neural Networks, ARIMA, Synthetic Control, Propensity Scores |
-| [Political Opinion Survey Experiment](https://github.com/timothy-majidzadeh/immigration-survey-experiment) | Designed and deployed a randomized survey to test how social media framing affects public opinion. Found opinion shifts varying by political party when questions were posed as Facebook posts. | A/B Testing, Research Design, Python, Qualtrics |
-| [Climate Disaster Visualization Site](https://github.com/timothy-majidzadeh/climate-disaster-viz) | Built a public-facing interactive site to explore the relationship between climate change and natural disasters across the U.S. | Data Visualization, JavaScript, Web Dev, D3.js |
-| [Computer Vision: Soccer Match Detection](https://github.com/timothy-majidzadeh/soccer-object-detection) | Trained YOLO-based object detection models to locate players and balls in soccer match images. | YOLOv5, Tensorflow, OpenCV, Image Processing |
-| [RAG Model Deployment for Document QA](https://github.com/timothy-majidzadeh/rag-llm-demo) | Deployed Retrieval-Augmented Generation (RAG) pipelines using LangChain and Mistral/Cohere to enhance document Q&A performance. | LangChain, Mistral, Cohere, RAG, Vector Stores |
+| [Political Opinion Survey Experiment](https://github.com/timothy-majidzadeh/Immigration_Survey_Research_w241_Fall2024) | Designed and deployed a randomized survey to test how social media framing affects public opinion. Found opinion shifts varying by political party when questions were posed as Facebook posts. | A/B Testing, Research Design, Python, Qualtrics |
+| [Climate Disaster Visualization Site](https://github.com/timothy-majidzadeh/Natural_Disasters_Majidzadeh_Sandoval_Venter) | Built a public-facing interactive site to explore the relationship between climate change and natural disasters across the U.S. | Data Visualization, JavaScript, Web Dev, D3.js |
+| [Computer Vision: Soccer Match Detection](https://github.com/timothy-majidzadeh/MIDS-W207-Spring24-Soccer-Detection) | Trained YOLO-based object detection models to locate players and balls in soccer match images. | YOLOv5, Tensorflow, OpenCV, Image Processing |
 
 ---
 
